@@ -1,6 +1,6 @@
 cask "quill-app" do
-  version "2026.1110.5392"
-  sha256 "27961718999ce780f084f96a365359f38d4e4eea3aefa191c998ec3e01d1e57c"
+  version "2026.1112.6544"
+  sha256 "bd06bef5b057ed936ed16f087086b603c743319ab4e516201bc4d8bdc057690d"
 
   url "https://github.com/shinycake/quill/releases/download/v#{version}/quill-macos-aarch64.zip"
   name "Quill"
